@@ -1,0 +1,2 @@
+insert into topics(name,artists,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,rank) values(God's Plan,Drake,0.754,0.449,7,-9.211,1,0.109,0.0332,8.29E-05,0.552,0.357,77.169,198973,4,1);
+insert into topics(name,artists,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,rank) values(SAD!,XXXTENTACION,0.74,0.613,8,-4.88,1,0.145,0.258,0.00372,0.123,0.473,75.023,166606,4,2);
